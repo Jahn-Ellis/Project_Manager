@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This program is a simple setup to record, assign, and track tasks assigned to users.
+This program is a simple setup to projects for a construction company.
 
 ## Build Status
 
@@ -10,9 +10,9 @@ This program is a simple setup to record, assign, and track tasks assigned to us
 
 ## Framework Used
 
-*Python*
+*Java*
 
 ## How to Use
 
-Follow prompts within the menu, enter values & assignments accordingly.
-All data will be stored in a text file for future use.
+Follow prompts within the menu, enter values accordingly.
+All variables stored to a class to be used for processing.
